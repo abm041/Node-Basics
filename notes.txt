@@ -1,0 +1,1 @@
+fs module used for file handling in nodejs
